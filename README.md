@@ -1,0 +1,1 @@
+This Ruby script is designed to help engage future event attendees by finding their government representatives based on their zip codes. It's developed for use by a non-profit organization focused on political activism.
